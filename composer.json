@@ -39,6 +39,7 @@
         "flarum/suspend": "*",
         "flarum/tags": "*",
         "flarum-lang/finnish": "*",
+        "flarum-lang/swedish": "*",
         "clarkwinkelmann/flarum-ext-passwordless": "*",
         "fof/doorman": "*",
         "fof/upload": "*",
