@@ -40,7 +40,7 @@
         "flarum/tags": "*",
         "flarum-lang/finnish": "*",
         "flarum-lang/swedish": "*",
-        "askvortsov/flarum-markdown-tables": "*"
+        "askvortsov/flarum-markdown-tables": "*",
         "clarkwinkelmann/flarum-ext-passwordless": "*",
         "fof/doorman": "*",
         "fof/upload": "*",
