@@ -44,6 +44,7 @@
         "clarkwinkelmann/flarum-ext-passwordless": "*",
         "fof/doorman": "*",
         "fof/upload": "*",
+        "fof/redis": "*",
         "sycho/flarum-private-facade": "v0.1.16"
     },
     "config": {
