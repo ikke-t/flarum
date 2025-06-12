@@ -45,6 +45,7 @@
         "fof/doorman": "*",
         "fof/upload": "*",
         "fof/redis": "*",
+        "fof/subscribed": "*",
         "sycho/flarum-private-facade": "v0.1.16"
     },
     "config": {
