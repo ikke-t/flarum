@@ -32,7 +32,6 @@
         "flarum/markdown": "*",
         "flarum/mentions": "*",
         "flarum/nicknames": "*",
-        "flarum/pusher": "*",
         "flarum/statistics": "*",
         "flarum/sticky": "*",
         "flarum/subscriptions": "*",
@@ -42,11 +41,12 @@
         "flarum-lang/swedish": "*",
         "askvortsov/flarum-markdown-tables": "*",
         "clarkwinkelmann/flarum-ext-passwordless": "*",
+        "fof/default-user-preferences": "^1.2",
         "fof/doorman": "*",
+        "fof/polls": "^2.2",
         "fof/upload": "*",
         "fof/redis": "*",
         "fof/subscribed": "*",
-        "sycho/flarum-private-facade": "v0.1.16"
     },
     "config": {
         "preferred-install": "dist",
