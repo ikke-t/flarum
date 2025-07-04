@@ -46,8 +46,7 @@
         "fof/polls": "^2.2",
         "fof/upload": "*",
         "fof/redis": "*",
-        "fof/subscribed": "*",
-        "webbinaro/flarum-calendar": "*"
+        "fof/subscribed": "*"
     },
     "config": {
         "preferred-install": "dist",
