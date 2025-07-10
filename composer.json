@@ -42,13 +42,13 @@
         "flarum/tags": "*",
         "flarum-lang/finnish": "*",
         "flarum-lang/swedish": "*",
-        "fof/default-user-preferences": "^1.2",
+        "fof/default-user-preferences": "*",
+        "fof/discussion-views": "*",
         "fof/doorman": "*",
         "fof/polls": "^2.2",
         "fof/upload": "*",
         "fof/redis": "*",
-        "fof/subscribed": "*",
-        "michaelbelgium/flarum-discussion-views": "*"
+        "fof/subscribed": "*"
     },
     "config": {
         "preferred-install": "dist",
