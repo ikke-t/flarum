@@ -46,7 +46,8 @@
         "fof/polls": "^2.2",
         "fof/upload": "*",
         "fof/redis": "*",
-        "fof/subscribed": "*"
+        "fof/subscribed": "*",
+        "michaelbelgium/flarum-discussion-views": "^7.3"
     },
     "config": {
         "preferred-install": "dist",
