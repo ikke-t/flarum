@@ -21,6 +21,9 @@
         "docs": "https://docs.flarum.org/"
     },
     "require": {
+        "askvortsov/flarum-markdown-tables": "*",
+        "askvortsov/flarum-pwa": "*",
+        "clarkwinkelmann/flarum-ext-passwordless": "*",
         "flarum/core": "^1.8",
         "flarum/approval": "*",
         "flarum/bbcode": "*",
@@ -39,15 +42,13 @@
         "flarum/tags": "*",
         "flarum-lang/finnish": "*",
         "flarum-lang/swedish": "*",
-        "askvortsov/flarum-markdown-tables": "*",
-        "clarkwinkelmann/flarum-ext-passwordless": "*",
         "fof/default-user-preferences": "^1.2",
         "fof/doorman": "*",
         "fof/polls": "^2.2",
         "fof/upload": "*",
         "fof/redis": "*",
         "fof/subscribed": "*",
-        "michaelbelgium/flarum-discussion-views": "^7.3"
+        "michaelbelgium/flarum-discussion-views": "*"
     },
     "config": {
         "preferred-install": "dist",
